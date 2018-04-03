@@ -2,8 +2,9 @@
 This 1st place project was made in less than 12 hours at the UdG Hackday2 hackathon,
 we had a raspberry pi 3 and a numpad, we had to make it work without drivers.
 We also had to make a website to add users (4 digits for the user, and 4 for the password),
-hosting the databse and website inside the rpi3.
-
+hosting both the databse and website inside the rpi3.
+<br>
+<img src="IMG-20180222-WA0004.jpg">
 
 ## Frontend
 One page to add users to the database.
