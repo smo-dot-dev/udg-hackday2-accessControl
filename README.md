@@ -5,10 +5,7 @@ we had a raspberry pi 3 and a numpad, we had to make it work <b>without drivers<
 We also had to make a website to add users (4 digits for the user, and 4 for the password),
 hosting both the databse and website inside the rpi3.
 <br>
-<img src="img_repo/0.PNG">
-<br>
-
-
+<img src="img_repo/0.jpg">
 ## Frontend
 One page to add users to the database.
 <br>
@@ -31,4 +28,3 @@ Make sure to put the readKey.py somewhere with rwx permissions.
 <b>Be sure to enable SQLite3 on the PHP.ini file!</b>
 <br>
 <img src="img_repo/3.PNG">
-<br>
