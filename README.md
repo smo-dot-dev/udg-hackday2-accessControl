@@ -23,7 +23,7 @@ Apache, and PHP to handle the sqlite3 database.
 
 ## How does it work
 The readKey.py file handles the numpad input so any user can login using the buttons 
-(hardest part was making it work with no drivers, no GPIO).
+(hardest part was making it work with no drivers, GPIO).
 Make sure to put the readKey.py somewhere with rwx permissions.
 <b>Be sure to enable SQLite3 on the PHP.ini file!</b>
 <br>
